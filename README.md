@@ -1,4 +1,4 @@
-#  Project
+# Smart Spending Navigator Project
 
 This project is a comprehensive analysis of personal financial transactions. It uses SQL queries to gain insights into spending patterns, budgeting, and overall financial health based on transaction data.
 
